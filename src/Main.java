@@ -18,7 +18,7 @@ public class Main {
         System.out.println(task1.Example4fact(5));
 
         System.out.println("------------------Example5-----------------");
-        System.out.println(task1.Example5fibb(10));
+        System.out.println(task1.Example5fibb(7));
     }
     public static void task2(){
         System.out.println("-------------------Task2-------------------");
